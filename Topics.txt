@@ -1,0 +1,6 @@
+MEAN STACK
+----------------------------------------------------------------------------------
+1. Display Data In Angular
+    Step 1: Install Angular 7 Application
+    Step 2: Create a Model file.
+    Step 3: Create HTML view to display data in Angular
